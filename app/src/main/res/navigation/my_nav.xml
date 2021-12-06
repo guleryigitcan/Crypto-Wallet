@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/portfolioFragment">
+
+    <fragment
+        android:id="@+id/portfolioFragment"
+        android:name="com.guleryigitcan.cryptowallet.fragment.TradingFragment"
+        android:label="fragment_portfolio"
+        tools:layout="@layout/fragment_trading" />
+    <fragment
+        android:id="@+id/tradingFragment"
+        android:name="com.guleryigitcan.cryptowallet.fragment.CoinSearchFragment"
+        android:label="fragment_trading"
+        tools:layout="@layout/fragment_coin_search" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.guleryigitcan.cryptowallet.fragment.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
