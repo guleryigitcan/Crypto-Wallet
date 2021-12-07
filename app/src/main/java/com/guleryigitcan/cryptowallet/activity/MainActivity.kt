@@ -1,10 +1,11 @@
-package com.guleryigitcan.cryptowallet
+package com.guleryigitcan.cryptowallet.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.guleryigitcan.cryptowallet.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

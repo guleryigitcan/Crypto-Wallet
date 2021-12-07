@@ -13,6 +13,15 @@
         <entry key="..\:/React/test/CryptoWallet/app/src/main/res/layout/item_coins.xml" value="0.35688405797101447" />
         <entry key="..\:/React/test/CryptoWallet/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/React/test/CryptoWallet/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/drawable/ic_person.xml" value="0.3828125" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/drawable/ic_portfolio.xml" value="0.3828125" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/drawable/ic_profile.xml" value="0.3828125" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/drawable/ic_search.xml" value="0.3828125" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/drawable/ic_trading.xml" value="0.3828125" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/layout/activity_splash.xml" value="0.3278985507246377" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/layout/fragment_coin_search.xml" value="0.3278985507246377" />
+        <entry key="..\:/pff/Crypto-Wallet/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
